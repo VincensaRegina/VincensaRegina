@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **iOS development (especially the frameworks), web development (React.js, Golang), and machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/qU468](https://shorturl.at/qU468)
+- 👨‍💻 Here's my brief portfolio [https://shorturl.at/qU468](https://shorturl.at/qU468)
 
 - 📫 How to reach me **vincensaregina@gmail.com**
 

@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **iOS development (especially the frameworks), web development (React.js, Nuxt.js), machine learning, and some other languages.**
 
 - 📫 How to reach me **vincensaregina@gmail.com**
-- 👨‍💻 Here's my brief portfolio [https://bit.ly/PortfolioVincensaRegina](https://bit.ly/PortfolioVincensaRegina)
+- 👨‍💻 Here's my brief portfolio shorturl.at/qU468
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

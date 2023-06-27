@@ -2,9 +2,7 @@
 <h3 align="center">An iOS and Web Developer from Indonesia!</h3>
 
 - 🌱 I’m currently learning **iOS development (especially the frameworks), web development, and machine learning.**
-
-- 👨‍💻 Here's my brief portfolio [https://shorturl.at/qU468](https://shorturl.at/qU468)
-
+  
 - 📫 How to reach me **vincensaregina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

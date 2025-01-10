@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vincensa Regina</h1>
-<h3 align="center">An iOS and Web Developer from Indonesia!</h3>
-
-- 🌱 I’m currently learning **iOS development, web development, and machine learning.**
-  
 - 📫 How to reach me **vincensaregina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
